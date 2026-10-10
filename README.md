@@ -30,7 +30,13 @@ FeedVexa is currently under development.
 
 Features and workflows are being improved and tested.
 
-<img src="Image/image1.jpg" width="35%"/>
+<img src="Image/image1.jpg" width="40%"/>
+<img src="Image/image2.png" width="40%"/>
+<img src="Image/image3.png" width="40%"/>
+<img src="Image/image4.png" width="40%"/>
+<img src="Image/image5.png" width="40%"/>
+<img src="Image/image6.png" width="40%"/>
+
 
 ## Who Is It For?
 
