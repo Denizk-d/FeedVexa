@@ -1,5 +1,4 @@
-# FeedVexa
-
+<img src="Image/FeedVexa@2x.png" width="40%"/>
 **Clean Supplier Data. Simplify Your Workflow.**
 
 FeedVexa is a Windows desktop application designed to help e-commerce sellers organize and clean supplier CSV and Excel files.
